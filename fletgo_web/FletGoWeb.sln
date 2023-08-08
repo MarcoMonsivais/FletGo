@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FletGoWeb", "FletGoWeb\FletGoWeb.csproj", "{077C5C78-27AD-483A-BDCD-1CEB61C67C26}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{077C5C78-27AD-483A-BDCD-1CEB61C67C26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{077C5C78-27AD-483A-BDCD-1CEB61C67C26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{077C5C78-27AD-483A-BDCD-1CEB61C67C26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{077C5C78-27AD-483A-BDCD-1CEB61C67C26}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B6F60A0B-C4E8-4965-BA24-7F7DD54D8FE2}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>674811384115-bb7a1lffrt4rvdghg6nl28b2hjfbpup9.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.674811384115-bb7a1lffrt4rvdghg6nl28b2hjfbpup9</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>674811384115-a2i0pak4khlssdf9s9ekol366d131ls0.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCMnnjOOKK3sl4zkR_-TczrnPryAGtgWLE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>674811384115</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.fletgo.usersapp</string>
+	<key>PROJECT_ID</key>
+	<string>fletgo-8ce42</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fletgo-8ce42.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:674811384115:ios:aa7e548a29c632ce4aee46</string>
+	<key>DATABASE_URL</key>
+	<string>https://fletgo-8ce42.firebaseio.com</string>
+</dict>
+</plist>

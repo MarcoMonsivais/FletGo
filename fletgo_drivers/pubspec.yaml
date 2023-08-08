@@ -1,0 +1,50 @@
+name: fletgo_user_app
+description: Applicación de FletGO para Socios
+
+version: 2.0.7+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  mailer: ^3.2.1
+  flutter_email_sender: ^3.0.1
+  url_launcher: ^5.7.8
+  flutter_bloc: ^4.0.0
+  flutter:
+    sdk: flutter
+  tel_input: ^0.2.2
+  giffy_dialog: ^1.6.1
+  equatable: ^2.0.3
+  image_picker: ^0.6.7+4
+  http: ^0.12.1+17
+  progress_dialog: ^1.2.2
+  cloud_functions:
+  firebase_storage:
+  firebase_core:
+  firebase_analytics:
+  cloud_firestore: ^0.13.4
+  firebase_auth:
+  firebase_database:
+  flutter_auth_buttons:
+  google_sign_in: ^4.1.4
+  rxdart:
+  apple_sign_in: ^0.1.0
+  cupertino_icons: ^0.1.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/
+
+  fonts:
+    - family: Poppins
+      fonts:
+        - asset: assets/fonts/Poppins-Regular.ttf
+        - asset: assets/fonts/Poppins-Bold.ttf

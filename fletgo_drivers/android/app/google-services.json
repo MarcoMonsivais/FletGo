@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "674811384115",
+    "firebase_url": "https://fletgo-8ce42.firebaseio.com",
+    "project_id": "fletgo-8ce42",
+    "storage_bucket": "fletgo-8ce42.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674811384115:android:344b42794661ba1c4aee46",
+        "android_client_info": {
+          "package_name": "com.fletgo.fletgo_drivers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "674811384115-fhq3fa1nl3uvod5irthk5aema2rt1mjl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fletgo.fletgo_drivers",
+            "certificate_hash": "65927638d2a5433cb746b1a0e6fac2374e05b0e6"
+          }
+        },
+        {
+          "client_id": "674811384115-l8rcgp6kl71e7ngkblfaai9pf14tbee8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcjrkNMEfDj9m4kVeDUo1B8MeSFNTdSDg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "674811384115-l8rcgp6kl71e7ngkblfaai9pf14tbee8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
